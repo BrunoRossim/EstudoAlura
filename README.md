@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Estudo Alura
 
 Rápida descrição do objetivo de fazer esse projeto
 
